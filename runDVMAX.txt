@@ -1,0 +1,2 @@
+--name=DVMAX Cloud
+Tests/Silvija/webfactory.robot
